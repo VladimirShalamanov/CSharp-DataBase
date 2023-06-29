@@ -1,0 +1,5 @@
+C:\University\C#_DataBase\Entity_Framework_Core\03.Entity Relations\01.StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\net6.0\P01_StudentSystem.Data.Models.csproj.AssemblyReference.cache
+C:\University\C#_DataBase\Entity_Framework_Core\03.Entity Relations\01.StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\net6.0\P01_StudentSystem.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\C#_DataBase\Entity_Framework_Core\03.Entity Relations\01.StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\net6.0\P01_StudentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\University\C#_DataBase\Entity_Framework_Core\03.Entity Relations\01.StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\net6.0\P01_StudentSystem.Data.Models.AssemblyInfo.cs
+C:\University\C#_DataBase\Entity_Framework_Core\03.Entity Relations\01.StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\net6.0\P01_StudentSystem.Data.Models.csproj.CoreCompileInputs.cache
